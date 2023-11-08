@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94740804536', 'Dinuwa Official²⁰²³', true],
-  ['94740804536', 'Dinuwa Official²⁰²³', true], 
+  ['919562530542', 'Call me bro', true],
+  ['919562530542', 'Call me bro', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['94740804536','94740804536'] 
-global.prems = ['94740804536', '94740804536', '94740804536']
+global.mods = ['919562530542','919562530542'] 
+global.prems = ['919562530542', '919562530542', '919562530542']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -51,11 +51,11 @@ global.botname = '💝 Queen Hentai 💝'
 global.premium = 'true'
 global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
 global.author = '💝 Dinuwa Official²⁰²³ 💝' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Dinuwa Official²⁰²³\n' 
-global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
+global.igfg = '▢ Follow on Instagram\nhttps://instagram.com/call_me_bro_2255?igshid=NzZlODBkYWE4Ng==\n' 
+global.dygp = 'https://chat.whatsapp.com/Fx7vh9oXBBx6ehXWv94oyv'
 global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
-global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
+global.fgyt = 'https://chat.whatsapp.com/Fx7vh9oXBBx6ehXWv94oyv'
+global.fgpyp = 'https://chat.whatsapp.com/Fx7vh9oXBBx6ehXWv94oyv'
 global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
 
 
